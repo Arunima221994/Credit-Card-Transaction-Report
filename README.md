@@ -46,11 +46,10 @@ ALL('public cc_detail'),
 
 A two page report was created on Power BI Desktop & it was then published to Power BI Service.
 
+![2](https://github.com/Arunima221994/Credit-Card-Transaction-Report/assets/154328968/e362ca77-b4fb-4487-b7aa-4a5d65514654)
+
 ![1](https://github.com/Arunima221994/Credit-Card-Transaction-Report/assets/154328968/07b8a031-757e-4dc7-a110-995b494247ca)
 
-
-
-![2](https://github.com/Arunima221994/Credit-Card-Transaction-Report/assets/154328968/e362ca77-b4fb-4487-b7aa-4a5d65514654)
 
 Following inferences can be drawn from the dashboard;
 
